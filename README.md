@@ -1,5 +1,5 @@
 # Compose AdMob InterstitialAd
-### How to implimet Admob Interstitial ad in compose?
+### How to implement Admob Interstitial ad in compose?
 
 Explainer video in English.
 [Youtube Link](https://www.youtube.com/watch?v=ouWG_ik4Qeo)
